@@ -1,0 +1,51 @@
+id,label,category,score,link
+b001,The Iliad,literature,9.5,https://en.wikipedia.org/wiki/Iliad
+b002,The Odyssey,literature,9.4,https://en.wikipedia.org/wiki/Odyssey
+b003,The Republic,philosophy,9.2,https://en.wikipedia.org/wiki/Republic_(Plato)
+b004,Meditations,philosophy,8.9,https://en.wikipedia.org/wiki/Meditations
+b005,The Prince,philosophy,8.5,https://en.wikipedia.org/wiki/The_Prince
+b006,Don Quixote,literature,9.3,https://en.wikipedia.org/wiki/Don_Quixote
+b007,Hamlet,literature,9.1,https://en.wikipedia.org/wiki/Hamlet
+b008,Paradise Lost,literature,8.8,https://en.wikipedia.org/wiki/Paradise_Lost
+b009,The Wealth of Nations,economics,9.0,https://en.wikipedia.org/wiki/The_Wealth_of_Nations
+b010,Origin of Species,science,9.6,https://en.wikipedia.org/wiki/On_the_Origin_of_Species
+b011,Principia Mathematica,science,9.4,https://en.wikipedia.org/wiki/Philosophiae_Naturalis_Principia_Mathematica
+b012,Critique of Pure Reason,philosophy,9.0,https://en.wikipedia.org/wiki/Critique_of_Pure_Reason
+b013,Phenomenology of Spirit,philosophy,8.7,https://en.wikipedia.org/wiki/Phenomenology_of_Spirit
+b014,The Brothers Karamazov,literature,9.2,https://en.wikipedia.org/wiki/The_Brothers_Karamazov
+b015,War and Peace,literature,9.3,https://en.wikipedia.org/wiki/War_and_Peace
+b016,Crime and Punishment,literature,9.0,https://en.wikipedia.org/wiki/Crime_and_Punishment
+b017,Ulysses,literature,8.6,https://en.wikipedia.org/wiki/Ulysses_(novel)
+b018,Beyond Good and Evil,philosophy,8.8,https://en.wikipedia.org/wiki/Beyond_Good_and_Evil
+b019,Tao Te Ching,philosophy,8.9,https://en.wikipedia.org/wiki/Tao_Te_Ching
+b020,The Analects,philosophy,8.7,https://en.wikipedia.org/wiki/The_Analects
+b021,The Bhagavad Gita,philosophy,9.0,https://en.wikipedia.org/wiki/Bhagavad_Gita
+b022,The Tale of Genji,literature,8.5,https://en.wikipedia.org/wiki/The_Tale_of_Genji
+b023,Decameron,literature,8.3,https://en.wikipedia.org/wiki/The_Decameron
+b024,The Divine Comedy,literature,9.4,https://en.wikipedia.org/wiki/Divine_Comedy
+b025,The Canterbury Tales,literature,8.7,https://en.wikipedia.org/wiki/The_Canterbury_Tales
+b026,On Liberty,philosophy,8.6,https://en.wikipedia.org/wiki/On_Liberty
+b027,Das Kapital,economics,8.4,https://en.wikipedia.org/wiki/Das_Kapital
+b028,Leviathan,philosophy,8.5,https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)
+b029,The Social Contract,philosophy,8.6,https://en.wikipedia.org/wiki/The_Social_Contract
+b030,Two Treatises of Government,philosophy,8.4,https://en.wikipedia.org/wiki/Two_Treatises_of_Government
+b031,Walden,literature,8.3,https://en.wikipedia.org/wiki/Walden
+b032,Moby-Dick,literature,9.0,https://en.wikipedia.org/wiki/Moby-Dick
+b033,Pride and Prejudice,literature,9.0,https://en.wikipedia.org/wiki/Pride_and_Prejudice
+b034,Wuthering Heights,literature,8.6,https://en.wikipedia.org/wiki/Wuthering_Heights
+b035,Frankenstein,literature,8.7,https://en.wikipedia.org/wiki/Frankenstein
+b036,Brave New World,literature,8.5,https://en.wikipedia.org/wiki/Brave_New_World
+b037,1984,literature,9.2,https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
+b038,The Trial,literature,8.4,https://en.wikipedia.org/wiki/The_Trial
+b039,One Hundred Years of Solitude,literature,9.0,https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude
+b040,Things Fall Apart,literature,8.5,https://en.wikipedia.org/wiki/Things_Fall_Apart
+b041,The Origin of Consciousness,science,7.8,https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind
+b042,Gödel Escher Bach,science,8.9,https://en.wikipedia.org/wiki/G%C3%B6del%2C_Escher%2C_Bach
+b043,The Selfish Gene,science,8.7,https://en.wikipedia.org/wiki/The_Selfish_Gene
+b044,A Brief History of Time,science,8.5,https://en.wikipedia.org/wiki/A_Brief_History_of_Time
+b045,The Structure of Scientific Revolutions,science,8.6,https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions
+b046,Surely You're Joking Mr Feynman,science,8.4,https://en.wikipedia.org/wiki/Surely_You%27re_Joking%2C_Mr._Feynman!
+b047,Sapiens,science,8.0,https://en.wikipedia.org/wiki/Sapiens%3A_A_Brief_History_of_Humankind
+b048,Guns Germs and Steel,science,8.2,https://en.wikipedia.org/wiki/Guns%2C_Germs%2C_and_Steel
+b049,Thinking Fast and Slow,science,8.5,https://en.wikipedia.org/wiki/Thinking%2C_Fast_and_Slow
+b050,The Black Swan,economics,7.9,https://en.wikipedia.org/wiki/The_Black_Swan%3A_The_Impact_of_the_Highly_Improbable

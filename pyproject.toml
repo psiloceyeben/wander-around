@@ -1,0 +1,57 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wander-around"
+version = "0.1.0"
+description = "Turn any 2D dataset into a walkable 3D world."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Ben Horn", email = "psiloceyeben@prometheus7.com" }
+]
+keywords = ["visualization", "dataviz", "3d", "walkable", "fastapi", "three.js", "spatial"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Visualization",
+    "Topic :: Multimedia :: Graphics :: 3D Rendering",
+]
+dependencies = [
+    "fastapi>=0.110",
+    "uvicorn[standard]>=0.27",
+    "pydantic>=2.6",
+    "numpy>=1.26",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "ruff>=0.4", "httpx>=0.27"]
+ingest-csv = ["pandas>=2.0"]
+ingest-jsonl = []
+
+[project.urls]
+Homepage = "https://wanderaround.io"
+Repository = "https://github.com/Prometheus7/wander-around"
+Documentation = "https://github.com/Prometheus7/wander-around/tree/main/docs"
+Issues = "https://github.com/Prometheus7/wander-around/issues"
+
+[project.scripts]
+wander-around = "wander_around.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+wander_around = ["static/*.js", "static/*.css", "static/*.html"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
